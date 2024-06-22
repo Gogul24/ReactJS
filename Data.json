@@ -1,0 +1,22 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Fridge",
+            "price":250000,
+            "qty":1
+        },
+        {
+            "id":1,
+            "name":"Monitor",
+            "price":23000,
+            "qty":1
+        },
+        {
+            "id":3,
+            "name":"television",
+            "price":213000,
+            "qty":3
+        }
+    ]
+}
